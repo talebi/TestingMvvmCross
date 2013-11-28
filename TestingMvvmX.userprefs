@@ -1,40 +1,15 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhoneRetina.7.0" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="TestingMvvmX.iOS/Views/FirstViewController.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestingMvvmX.Droid/MainActivity.cs">
     <Files>
-      <File FileName="TestingMvvmX.iOS/Views/FirstView.cs" Line="11" Column="5" />
-      <File FileName="TestingMvvmX.iOS/AppDelegate.cs" Line="19" Column="19" />
-      <File FileName="TestingMvvmX.iOS/Main.cs" Line="16" Column="1" />
-      <File FileName="TestingMvvmX.iOS/AppDelegate.cs.txt" Line="24" Column="33" />
-      <File FileName="TestingMvvmX.iOS/ToDo-MvvmCross/_ Touch UI.txt" Line="1" Column="1" />
-      <File FileName="TestingMvvmX.Core/ViewModels/FirstViewModel.cs" Line="1" Column="1" />
-      <File FileName="TestingMvvmX.iOS/Views/FirstViewController.cs" Line="28" Column="49" />
-      <File FileName="TestingMvvmX.Core/FirstViewModel.cs" Line="29" Column="34" />
-      <File FileName="TestingMvvmX.Core/SecondViewModel.cs" Line="10" Column="33" />
-      <File FileName="TestingMvvmX.iOS/Views/SecondViewController.cs" Line="24" Column="41" />
-      <File FileName="TestingMvvmX.Core/App.cs" Line="14" Column="4" />
-      <File FileName="TestingMvvmX.iOS/Setup.cs" Line="1" Column="1" />
-      <File FileName="TestingMvvmX.iOS/DebugTrace.cs" Line="27" Column="41" />
+      <File FileName="TestingMvvmX.iOS/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="TestingMvvmX.iOS/Views/FirstViewController.cs" Line="1" Column="1" />
+      <File FileName="TestingMvvmX.Droid/MainActivity.cs" Line="1" Column="1" />
     </Files>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State expanded="True" selected="True">
-          <Node name="TestingMvvmX.Core" expanded="True">
-            <Node name="References" expanded="True" />
-            <Node name="ToDo-MvvmCross" expanded="True" />
-            <Node name="ViewModels" expanded="True" />
-          </Node>
-          <Node name="TestingMvvmX.iOS" expanded="True">
-            <Node name="References" expanded="True" />
-            <Node name="ToDo-MvvmCross" expanded="True" />
-            <Node name="Views" expanded="True" />
-          </Node>
-        </State>
-      </Pad>
-    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TestingMvvmX.Droid />
 </Properties>

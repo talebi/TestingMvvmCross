@@ -127,7 +127,6 @@
     <None Include="packages.config" />
     <None Include="ToDo-MvvmCross\_ Touch UI.txt" />
     <None Include="AppDelegate.cs.txt" />
-    <None Include="Views\FirstView.cs" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Main.cs" />
