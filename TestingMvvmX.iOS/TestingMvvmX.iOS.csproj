@@ -126,13 +126,11 @@
     <None Include="Entitlements.plist" />
     <None Include="packages.config" />
     <None Include="ToDo-MvvmCross\_ Touch UI.txt" />
-    <None Include="AppDelegate.cs.txt" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Main.cs" />
     <Compile Include="AppDelegate.cs" />
     <Compile Include="Setup.cs" />
-    <Compile Include="DebugTrace.cs" />
     <Compile Include="LinkerPleaseInclude.cs" />
     <Compile Include="Views\FirstViewController.cs" />
     <Compile Include="Views\FirstViewController.designer.cs">
@@ -142,10 +140,7 @@
     <Compile Include="Views\SecondViewController.designer.cs">
       <DependentUpon>SecondViewController.cs</DependentUpon>
     </Compile>
-    <Compile Include="AViewController.cs" />
-    <Compile Include="AViewController.designer.cs">
-      <DependentUpon>AViewController.cs</DependentUpon>
-    </Compile>
+    <Compile Include="DebugTrace.cs" />
   </ItemGroup>
   <ItemGroup>
     <InterfaceDefinition Include="Views\FirstViewController.xib" />

@@ -69,6 +69,6 @@ Global
 		{E0A5B05E-F365-4F36-A3CC-29CDD8CB14AD}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(MonoDevelopProperties) = preSolution
-		StartupItem = TestingMvvmX.Droid\TestingMvvmX.Droid.csproj
+		StartupItem = TestingMvvmX.iOS\TestingMvvmX.iOS.csproj
 	EndGlobalSection
 EndGlobal
